@@ -1,0 +1,439 @@
+[HTTP] Binding to address: :1080
+Creating API v1 with WebPath: 
+Creating API v2 with WebPath: 
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "PWyUPCDfboLuxPpmyGnOWbp2WSNKU0TK3CS07-j4Fbk=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "379665de33d5",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Type": [
+        "text/plain; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 16 May 2019 15:33:34 +0000"
+      ],
+      "From": [
+        "What a Nut \u003cwordpress@mythoughts.local\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c3720bf7f50994b76fe15eaa5ee13fe87@mythoughts.local\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id PWyUPCDfboLuxPpmyGnOWbp2WSNKU0TK3CS07-j4Fbk=@mailhog.example; Thu, 16 May 2019 15:33:34 +0000"
+      ],
+      "Reply-To": [
+        "Fred@stone.com"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@379665de33d5\u003e"
+      ],
+      "Subject": [
+        "What a Nut \"Will this work?\""
+      ],
+      "To": [
+        "corybrighton01@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "From: Stone \u003cFred@stone.com\u003e\r\nSubject: Will this work?\r\n\r\nMessage Body:\r\nI don't know. It really should.\r\n\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Size": 624,
+    "MIME": null
+  },
+  "Created": "2019-05-16T15:33:34.500062895Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@379665de33d5",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: corybrighton01@gmail.com\r\nSubject: What a Nut \"Will this work?\"\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 16 May 2019 15:33:34 +0000\r\nFrom: What a Nut \u003cwordpress@mythoughts.local\u003e\r\nReply-To: Fred@stone.com\r\nMessage-ID: \u003c3720bf7f50994b76fe15eaa5ee13fe87@mythoughts.local\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nFrom: Stone \u003cFred@stone.com\u003e\r\nSubject: Will this work?\r\n\r\nMessage Body:\r\nI don't know. It really should.\r\n\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv2] GET /api/v2/jim
+[APIv2] GET /api/v2/messages
+[APIv2] GET /api/v2/websocket
+[APIv1] GET /api/v1/messages/PWyUPCDfboLuxPpmyGnOWbp2WSNKU0TK3CS07-j4Fbk=@mailhog.example
+
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "T7v8L0z2m9KuDAo2THO982NMhrJm_DIkNDBWgf4GoHk=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "379665de33d5",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Type": [
+        "text/plain; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 16 May 2019 15:57:22 +0000"
+      ],
+      "From": [
+        "What a Nut \u003cwordpress@mythoughts.local\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c73c05ddb28c602ed4c162659001ef29f@mythoughts.local\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id T7v8L0z2m9KuDAo2THO982NMhrJm_DIkNDBWgf4GoHk=@mailhog.example; Thu, 16 May 2019 15:57:22 +0000"
+      ],
+      "Reply-To": [
+        "corybrighton01@gmail.com"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@379665de33d5\u003e"
+      ],
+      "Subject": [
+        "What a Nut \"[your-subject]\""
+      ],
+      "To": [
+        "corybrighton01@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "From: [your-name] \u003c[your-email]\u003e\r\nSubject: [your-subject]\r\n\r\nMessage Body:\r\n[your-message]\r\n\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Size": 619,
+    "MIME": null
+  },
+  "Created": "2019-05-16T15:57:22.828966112Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@379665de33d5",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: corybrighton01@gmail.com\r\nSubject: What a Nut \"[your-subject]\"\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 16 May 2019 15:57:22 +0000\r\nFrom: What a Nut \u003cwordpress@mythoughts.local\u003e\r\nReply-To: corybrighton01@gmail.com\r\nMessage-ID: \u003c73c05ddb28c602ed4c162659001ef29f@mythoughts.local\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nFrom: [your-name] \u003c[your-email]\u003e\r\nSubject: [your-subject]\r\n\r\nMessage Body:\r\n[your-message]\r\n\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv2] GET /api/v2/websocket
+[APIv2] GET /api/v2/jim
+[APIv2] GET /api/v2/messages
+[APIv2] GET /api/v2/jim
+[APIv2] GET /api/v2/messages
+[APIv2] GET /api/v2/websocket
+[APIv1] GET /api/v1/messages/PWyUPCDfboLuxPpmyGnOWbp2WSNKU0TK3CS07-j4Fbk=@mailhog.example
+
+[APIv1] GET /api/v1/messages/T7v8L0z2m9KuDAo2THO982NMhrJm_DIkNDBWgf4GoHk=@mailhog.example
+
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv2] GET /api/v2/jim
+[APIv2] GET /api/v2/messages
+[APIv2] GET /api/v2/websocket
+[APIv1] KEEPALIVE /api/v1/events
+Got message in APIv2 websocket channel
+[APIv2] BROADCAST /api/v2/websocket
+Got message in APIv1 event stream
+Sending content: {
+  "ID": "xi5JPiWyuVIoKOKA5XokPAEH6VaqR2-I6FT4IiC39w8=@mailhog.example",
+  "From": {
+    "Relays": null,
+    "Mailbox": "www-data",
+    "Domain": "379665de33d5",
+    "Params": ""
+  },
+  "To": [
+    {
+      "Relays": null,
+      "Mailbox": "mailhog",
+      "Domain": "flywheel.local",
+      "Params": ""
+    }
+  ],
+  "Content": {
+    "Headers": {
+      "Content-Type": [
+        "text/plain; charset=UTF-8"
+      ],
+      "Date": [
+        "Thu, 16 May 2019 16:02:17 +0000"
+      ],
+      "From": [
+        "What a Nut \u003cwordpress@mythoughts.local\u003e"
+      ],
+      "MIME-Version": [
+        "1.0"
+      ],
+      "Message-ID": [
+        "\u003c4ff93610beab13e527145bae34daab28@mythoughts.local\u003e"
+      ],
+      "Received": [
+        "from localhost by mailhog.example (MailHog)\r\n          id xi5JPiWyuVIoKOKA5XokPAEH6VaqR2-I6FT4IiC39w8=@mailhog.example; Thu, 16 May 2019 16:02:17 +0000"
+      ],
+      "Reply-To": [
+        "corybrighton01@gmail.com"
+      ],
+      "Return-Path": [
+        "\u003cwww-data@379665de33d5\u003e"
+      ],
+      "Subject": [
+        "What a Nut \"[your-subject]\""
+      ],
+      "To": [
+        "corybrighton01@gmail.com"
+      ],
+      "X-Mailer": [
+        "PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)"
+      ],
+      "X-PHP-Originating-Script": [
+        "1000:class-phpmailer.php"
+      ]
+    },
+    "Body": "From: [your-name] \u003c[your-email]\u003e\r\nSubject: [your-subject]\r\n\r\nMessage Body:\r\ndate: 2019-05-23\r\npayee: Costco\r\ncategory: one cat short of crazy\r\nmemo: A lot of junk you don't need.\r\namount: 120.52\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Size": 721,
+    "MIME": null
+  },
+  "Created": "2019-05-16T16:02:17.398806264Z",
+  "MIME": null,
+  "Raw": {
+    "From": "www-data@379665de33d5",
+    "To": [
+      "mailhog@flywheel.local"
+    ],
+    "Data": "To: corybrighton01@gmail.com\r\nSubject: What a Nut \"[your-subject]\"\r\nX-PHP-Originating-Script: 1000:class-phpmailer.php\r\nDate: Thu, 16 May 2019 16:02:17 +0000\r\nFrom: What a Nut \u003cwordpress@mythoughts.local\u003e\r\nReply-To: corybrighton01@gmail.com\r\nMessage-ID: \u003c4ff93610beab13e527145bae34daab28@mythoughts.local\u003e\r\nX-Mailer: PHPMailer 5.2.22 (https://github.com/PHPMailer/PHPMailer)\r\nMIME-Version: 1.0\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nFrom: [your-name] \u003c[your-email]\u003e\r\nSubject: [your-subject]\r\n\r\nMessage Body:\r\ndate: 2019-05-23\r\npayee: Costco\r\ncategory: one cat short of crazy\r\nmemo: A lot of junk you don't need.\r\namount: 120.52\r\n-- \r\nThis e-mail was sent from a contact form on What a Nut (http://mythoughts.local)\r\n",
+    "Helo": "localhost"
+  }
+}
+
+[APIv1] BROADCAST /api/v1/events
+[APIv1] GET /api/v1/messages/xi5JPiWyuVIoKOKA5XokPAEH6VaqR2-I6FT4IiC39w8=@mailhog.example
+
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
+[APIv1] KEEPALIVE /api/v1/events
